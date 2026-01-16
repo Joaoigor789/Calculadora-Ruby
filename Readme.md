@@ -13,7 +13,7 @@ para rodar use no terminal
 
 
 
-Projeto simples de **Calculadora em Ruby**, executada via **terminal**, desenvolvido com foco em aprendizado da linguagem, lógica de programação e estruturas de controle (`loop`, `case`, `if`).
+Projeto simples de **Calculadora em Ruby**, executada via **terminal**, desenvolvido com foco em aprendizado da linguagem, lógica de programação e estruturas de controle (`loop`, `case`, `if`. `salvar_historico`, `ler_historico`).
 
 ---
 
