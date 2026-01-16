@@ -8,6 +8,9 @@ para rodar use no terminal
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4CAF50?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
+![JSON](https://img.shields.io/badge/dynamic/json)
+
+
 Projeto simples de **Calculadora em Ruby**, executada via **terminal**, desenvolvido com foco em aprendizado da linguagem, lógica de programação e estruturas de controle (`loop`, `case`, `if`).
 
 ---
