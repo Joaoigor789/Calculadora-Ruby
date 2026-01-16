@@ -10,8 +10,15 @@ def ler_historico
   File.exist?('historico.json') ? JSON.parse(File.read('historico.json')) : []
 end
 
+
+def vermelho(texto); "\e[31m#{texto}\e[0m" end
+def verde(texto); "\e[32m#{texto}\e[0m" end
+def azul(texto); "\e[34m#{texto}\e[0m" end
+
+
+
 loop do 
-  puts "\n== Calculadora Ruby ==="
+  puts verde("\n=== Calculadora Ruby ===")
   puts "1. Soma"
   puts "2. Subtração"
   puts "3. Multiplicação"
@@ -66,7 +73,7 @@ loop do
         resultado = num1 / num2
         operacao = "/"
       else
-        puts "Erro: não é possível dividir por zero"
+        puts vermelho("Erro: não é possível dividir por zero")
         next
       end
     end

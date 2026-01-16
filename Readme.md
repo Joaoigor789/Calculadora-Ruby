@@ -8,7 +8,8 @@ para rodar use no terminal
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4CAF50?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
-![JSON](https://img.shields.io/badge/dynamic/json)
+![JSON](https://img.shields.io/badge/Format-JSON-blue?style=flat-square&logo=json)
+
 
 
 
