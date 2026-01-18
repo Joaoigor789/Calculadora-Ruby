@@ -1,0 +1,1 @@
+# conteiner.rb - Container de dados financeiros
